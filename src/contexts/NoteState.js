@@ -1,4 +1,3 @@
-require("dotenv").config();
 import { createContext, useContext, useState } from "react";
 import { AlertContext } from "./AlertState";
 
